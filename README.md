@@ -1,6 +1,40 @@
-# 💫 About Me:
-Hi, I'm Yuvraj! <br>I'm a passionate Data Scientist and Software Developer with hands-on experience in building AI-driven solutions, <br>Automating workflows, and developing full-stack applications.<br>I love working with Python, machine learning, and cloud technologies to solve real-world problems. <br>Currently, I'm exploring Large Language Models (LLMs) and integrating them into scalable projects. <br>Always open to collaboration and eager to learn new tools and technologies!
+# Yuvraj Gavhane | Data Scientist • ML Engineer
 
+Turning data into production AI—NLP, MLOps, and API-first systems for regulated use cases in FinTech and beyond.
+
+## About
+- Data Scientist and Software Developer focused on end-to-end ML delivery: from data pipelines to APIs and monitoring in production.  
+- Currently exploring LLMs and retrieval-augmented systems, and integrating them into scalable backends.  
+- Passionate about clean interfaces between data science and engineering: FastAPI, Azure Functions, CI/CD, and model health.
+
+## Highlights
+- Automated KYC/ID verification, cutting manual review time by 85% via Azure Document Intelligence + custom NLP.  
+- Reduced model degradation incidents by 40% with drift and data-quality monitoring (Evidently + CI/CD).  
+- Productionized BERT-based classification on Azure (containerized FastAPI), lifting accuracy by 8% and lowering latency by 30%.
+
+## Tech
+- Languages: Python, SQL, JavaScript/TypeScript  
+- ML & NLP: scikit-learn, Transformers/BERT, TensorFlow, PyTorch, LangChain  
+- Data & Viz: Pandas, NumPy, Power BI, Plotly, Dash  
+- Backend & MLOps: FastAPI, Flask, Azure Functions, Docker, CI/CD, Evidently  
+- Databases: PostgreSQL, MSSQL, Vector DBs (Pinecone/Chroma)  
+- Cloud: Azure (ML Studio, Containers), AWS (EC2/ECR)
+
+## Featured Projects
+- KYC/Onboarding Automation — Azure Document Intelligence + custom NLP to accelerate lender onboarding and cut manual checks.  
+- RAG FAQ Chatbot — Streamlit + LangChain + Azure AI for exec-grade answers, reducing escalations by 70%.  
+- BERT API on Azure — Containerized FastAPI service with latency and accuracy improvements in production.  
+- Income Verification Bot — Azure Functions + React integration to reduce manual verification workload.
+
+## What I’m exploring
+- LLM orchestration patterns for enterprise workflows  
+- Robust evaluation: drift, data quality, and CI for ML  
+- Document intelligence for financial data extraction
+
+## Contact
+- Email: <YOUR_EMAIL>  
+- LinkedIn: <LINKEDIN_URL>  
+- Portfolio: <PORTFOLIO_OR_BLOG_URL>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Yuvraj Gavhane) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yuvraj-gavhane-978274167) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gavhane3007) 
