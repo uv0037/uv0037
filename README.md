@@ -27,14 +27,11 @@ Turning data into production AI, NLP, MLOps, and API-first systems for regulated
 - Document intelligence for financial data extraction
 
 ## Contact
-- Email: <YOUR_EMAIL>  
-- LinkedIn: <LINKEDIN_URL>  
-- Portfolio: <PORTFOLIO_OR_BLOG_URL>
+- Email: gavhaneyuvraj54@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yuvraj-gavhane-978274167) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gavhane3007) 
 
-# 💻 Tech Stack:
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=uv0037&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
