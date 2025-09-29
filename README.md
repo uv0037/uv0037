@@ -1,6 +1,6 @@
 # Yuvraj Gavhane | Data Scientist • ML Engineer
 
-Turning data into production AI—NLP, MLOps, and API-first systems for regulated use cases in FinTech and beyond.
+Turning data into production AI, NLP, MLOps, and API-first systems for regulated use cases in FinTech and beyond.
 
 ## About
 - Data Scientist and Software Developer focused on end-to-end ML delivery: from data pipelines to APIs and monitoring in production.  
